@@ -9,7 +9,7 @@
 
 ## 3주차 과제 (0930 제출)
 
-<img width="" height="" src="./png/callfin.PNG></img>
+<img width="" height="" src="./png/callfin.PNG"></img>
 
 ## 4주차 과제
  - 아이디어 명: 더이상 혼자 독서하지 않기
