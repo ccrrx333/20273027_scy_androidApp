@@ -25,3 +25,10 @@
 
 <img width="" height="" src="./png/image1.PNG"></img>
 <img width="" height="" src="./png/image2.PNG"></img>
+
+## 6주차 과제
+
+<img width="" height="" src="./png/week6.PNG"></img>
+<img width="" height="" src="./png/week66.PNG"></img>
+<img width="" height="" src="./png/week666.PNG"></img>
+<img width="" height="" src="./png/week6666.PNG"></img>
