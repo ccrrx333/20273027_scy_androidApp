@@ -40,5 +40,5 @@ LMS 제출
 LMS 제출
 
 ## 9주차 과제
-<img width="" height="" src="./png/week9_1.PNG"></img>
-<img width="" height="" src="./png/week9_2.PNG"></img>
+<img width="" height="" src="./png/9week_1.PNG"></img>
+<img width="" height="" src="./png/9week_2.PNG"></img>
