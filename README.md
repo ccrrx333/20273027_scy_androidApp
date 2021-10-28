@@ -32,3 +32,13 @@
 <img width="" height="" src="./png/week66.PNG"></img>
 <img width="" height="" src="./png/week666.PNG"></img>
 <img width="" height="" src="./png/week6666.PNG"></img>
+
+## 7주차 과제
+LMS 제출
+
+## 중간고사
+LMS 제출
+
+## 9주차 과제
+<img width="" height="" src="./png/week9_1.PNG"></img>
+<img width="" height="" src="./png/week9_2.PNG"></img>
